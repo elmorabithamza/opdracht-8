@@ -1,0 +1,42 @@
+body{
+
+    color: red;
+}
+
+.black-border {
+
+    border: 5px solid black;
+}
+
+#green-background{
+
+    background-color: green;
+}
+
+.red-border {
+
+    border: 5px solid red;
+    margin: 10px 0px;
+    padding: 10px;
+    margin: auto;
+}
+
+.blue-border {
+
+    border: 5px solid blue;
+    margin: 10px 0px;
+    padding: 15px;
+    margin: auto;
+}
+
+.horizontal-links {
+
+display: inline;
+}
+
+@media (max-width: 380px){}
+
+@media (min-width: 1024px) {
+
+    
+}
